@@ -18,10 +18,10 @@ public class PrimitiveDataTypes {
 
         // these values are outside the range of the primitive data type
         // this results in compilation error
-  /*  byte otherValue = 129;
-    short otherNum = 33000;
-    int otherCount= 2147483648;
-  */
+        /*  byte otherValue = 129;
+            short otherNum = 33000;
+            int otherCount= 2147483648;
+         */
 
 
         float interRate = 7.95f;
