@@ -32,11 +32,11 @@ public class PrimitiveDataTypes {
 
 
 
-    /*
-    Format floating point numbers
-    %.2f number should be formatted as a (f) floating point number
-    with (2) digits to right of the decimal point
-     */
+        /*
+        Format floating point numbers
+        %.2f number should be formatted as a (f) floating point number
+        with (2) digits to right of the decimal point
+         */
 
         String formattedNum = String.format("%.2f", prizeWinning);
         System.out.println("Formatted prizeWinning: "+ formattedNum); //get output as expected
