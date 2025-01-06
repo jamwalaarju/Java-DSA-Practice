@@ -9,7 +9,7 @@ public class IfElseDemo {
         System.out.print("Enter Age = ");
         int age = scanner.nextInt();
 
-        System.out.println("Minimum age for votinng ="+ minimumVotingAge);
+        System.out.println("Minimum age for voting ="+ minimumVotingAge);
 
         if(age>=minimumVotingAge) {
             System.out.println("You are eligible to vote");
